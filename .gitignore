@@ -1,0 +1,6 @@
+__pycache__
+venv
+images
+glitch_images
+secrets.py
+.DS_Store
